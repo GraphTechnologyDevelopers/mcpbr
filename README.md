@@ -1,7 +1,7 @@
 # mcpbr
 
 <p align="center">
-  <img src="assets/mcpbr-logo.jpg" alt="MCPBR Logo" width="400">
+  <img src="https://raw.githubusercontent.com/greynewell/mcpbr/main/assets/mcpbr-logo.jpg" alt="MCPBR Logo" width="400">
 </p>
 
 **Model Context Protocol Benchmark Runner**
@@ -16,7 +16,7 @@
 A benchmark runner for evaluating MCP (Model Context Protocol) servers against SWE-bench tasks.
 
 <p align="center">
-  <img src="assets/mcpbr-demo.gif" alt="mcpbr in action" width="700">
+  <img src="https://raw.githubusercontent.com/greynewell/mcpbr/main/assets/mcpbr-demo.gif" alt="mcpbr in action" width="700">
 </p>
 
 ## Try It Now
@@ -30,7 +30,7 @@ That's it. One task, one config, one answer. Like ordering a beer at a German ra
 ## What You Get
 
 <p align="center">
-  <img src="assets/mcpbr-eval-results.png" alt="MCPBR Evaluation Results" width="600">
+  <img src="https://raw.githubusercontent.com/greynewell/mcpbr/main/assets/mcpbr-eval-results.png" alt="MCPBR Evaluation Results" width="600">
 </p>
 
 Real metrics showing whether your MCP server improves agent performance on SWE-bench tasks. No vibes, just data.
